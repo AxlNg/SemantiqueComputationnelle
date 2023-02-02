@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2000/10/XMLSchema">
+  <!-- XSchema deffinition for Address -->
+  <element name="Date">
+    <complexType>
+      <attribute name="type" use="optional" value="other" >
+        <simpleType>
+          <restriction base="string">
+            <enumeration value="annee"/>
+			<enumeration value="mois"/>
+			<enumeration value="jour"/>
+			<enumeration value="jourSemaine"/>
+			<enumeration value="anneeMoisJour"/>
+			<enumeration value="anneeMois"/>
+			<enumeration value="moisJour"/>
+          </restriction>
+        </simpleType>   
+      </attribute>
+    </complexType>
+  </element>
+</schema>
