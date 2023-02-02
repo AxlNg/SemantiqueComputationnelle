@@ -1,7 +1,7 @@
 # SemantiqueComputationnelle
 L’objectif de ce projet individuel est d’annoter manuellement et automatiquement dans GATE deux livres de notre choix, un en français et un en anglais.  
-Livre en français : Cent ans après ou l'An 2000 d'Edward Bellamy (1891 pour la version française).  
-Livre en anglais : The Legends Of King Arthur And His Knights de James Knowles et Thomas Malory (1860).
+Livre en français : *Cent ans après ou l'An 2000* d'Edward Bellamy (1891 pour la version française).  
+Livre en anglais : *The Legends Of King Arthur And His Knights* de James Knowles et Thomas Malory (1860).
 
 Les différentes étapes du projet :
 - Sélection des livres et création des corpus français et anglais
